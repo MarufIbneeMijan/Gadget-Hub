@@ -1,0 +1,158 @@
+[
+    {
+        "product_id": "LAP123",
+        "product_title": "Dell XPS 13",
+        "product_image": "https://i.ibb.co.com/gvsYSyX/banner.jpg",
+        "category": "Laptop",
+        "price": 1299,
+        "description": "Powerful 13-inch laptop with stunning display and long battery life.",
+        "specification": [
+            "Intel Core i7-12700H",
+            "16GB RAM",
+            "512GB SSD",
+            "Windows 11 Pro"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "MOB456",
+        "product_title": "iPhone 14 Pro Max",
+        "product_image": "https://i.ibb.co.com/gvsYSyX/banner.jpg",
+        "category": "Mobile",
+        "price": 1099,
+        "description": "The ultimate smartphone with a powerful camera and stunning display.",
+        "specification": [
+            "A16 Bionic chip",
+            "6.7-inch Super Retina XDR display",
+            "48MP Main camera",
+            "iOS 16"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "ACC789",
+        "product_title": "Apple AirPods Pro (2nd Generation)",
+        "product_image": "https://i.ibb.co.com/gvsYSyX/banner.jpg",
+        "category": "Accessory",
+        "price": 249,
+        "description": "Immersive sound with Active Noise Cancellation and Adaptive Transparency.",
+        "specification": [
+            "Up to 30 hours of listening time",
+            "Customizable controls",
+            "Spatial Audio with dynamic head tracking"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "SWT101",
+        "product_title": "Apple Watch Series 8",
+        "product_image": "https://i.ibb.co.com/gvsYSyX/banner.jpg",
+        "category": "Smartwatch",
+        "price": 399,
+        "description": "Advanced health and fitness tracking with a stunning display.",
+        "specification": [
+            "Always-On Retina display",
+            "Crash Detection",
+            "Temperature sensing"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "MAC234",
+        "product_title": "MacBook Pro 14-inch",
+        "product_image": "https://i.ibb.co.com/gvsYSyX/banner.jpg",
+        "category": "MacBook",
+        "price": 1999,
+        "description": "Powerful MacBook with stunning display and long battery life.",
+        "specification": [
+            "M2 Pro chip",
+            "14-inch Liquid Retina XDR display",
+            "16GB unified memory",
+            "1TB SSD"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "LAP567",
+        "product_title": "HP Spectre x360",
+        "product_image": "https://i.ibb.co.com/gvsYSyX/banner.jpg",
+        "category": "Laptop",
+        "price": 1199,
+        "description": "Versatile 2-in-1 laptop with a sleek design and powerful performance.",
+        "specification": [
+            "Intel Core i7-1255U",
+            "16GB RAM",
+            "512GB SSD",
+            "Windows 11 Home"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "MOB890",
+        "product_title": "Samsung Galaxy S23 Ultra",
+        "product_image": "https://i.ibb.co.com/gvsYSyX/banner.jpg",
+        "category": "Mobile",
+        "price": 1199,
+        "description": "The ultimate Android smartphone with a powerful camera and stunning display.",
+        "specification": [
+            "Qualcomm Snapdragon 8 Gen 2",
+            "6.8-inch Dynamic AMOLED 2X display",
+            "200MP Main camera",
+            "Android 13"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "ACC123",
+        "product_title": "Bose QuietComfort Earbuds II",
+        "product_image": "https://i.ibb.co.com/gvsYSyX/banner.jpg",
+        "category": "Accessory",
+        "price": 299,
+        "description": "Industry-leading noise cancellation and immersive sound.",
+        "specification": [
+            "Up to 24 hours of listening time",
+            "Customizable EQ",
+            "IPX4 water resistance"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "SWT456",
+        "product_title": "Fitbit Versa 4",
+        "product_image": "https://i.ibb.co.com/gvsYSyX/banner.jpg",
+        "category": "Smartwatch",
+        "price": 229,
+        "description": "Stylish and functional smartwatch with advanced health and fitness tracking.",
+        "specification": [
+            "AMOLED display",
+            "Built-in GPS",
+            "Heart rate, SpO2, and sleep tracking"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": "MAC789",
+        "product_title": "MacBook Air M2",
+        "product_image": "https://i.ibb.co.com/gvsYSyX/banner.jpg",
+        "category": "MacBook",
+        "price": 1099,
+        "description": "Thin, light, and powerful MacBook with stunning display and long battery life.",
+        "specification": [
+            "M2 chip",
+            "13.6-inch Liquid Retina display",
+            "8GB unified memory",
+            "256GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.8
+    }
+]
